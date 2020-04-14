@@ -1,0 +1,30 @@
+---
+title: "help"
+author: "Endri Raco"
+date: "4/14/2020"
+output: html_document
+---
+
+## About program
+
+**Albanianames** is a Shiny app which interactively show popularity of Albanian names for 2011-2014 year.
+
+## Head
+
+Here you can search by **name** and selecting **gender**
+
+## Top 10 
+
+This is an informative tab showing maps and comparision charts 
+
+## NameCloud
+
+Here you can filter by **region** and **year**. You can select the number of names to show in wordcloud. You will see most popular names by size
+
+## Comparision
+
+Here you can see by selecting **region** differences between different regions regarding popularity in names
+
+## Popularity
+
+Here you can enter your name in capital letters. Graph shown will display popularity through years
